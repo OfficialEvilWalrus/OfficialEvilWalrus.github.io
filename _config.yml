@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://OfficialEvilWalrus.github.io
+title: Evil Walrus
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
